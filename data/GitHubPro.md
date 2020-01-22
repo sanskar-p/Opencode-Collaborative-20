@@ -9,7 +9,7 @@
 * Aaryan Bhardwaj - [uglyprincess](https://github.com/uglyprincess)
 * Tejas Agrawal - [cyber-venom003](https://github.com/cyber-venom003)
 * Vishwas Singh - [infern018](https://github.com/infern018)
-
+* Sanskar Patro - [sanskar-p](https://github.com/sanskar-p)
  
 
  
